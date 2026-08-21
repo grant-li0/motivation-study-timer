@@ -1,4 +1,4 @@
-# Motivation Study Timer 🍅
+# Motivation Study Timer
 
 A Pomodoro-based study timer built on an Arduino Uno with a 16x2 LCD display. Features auto and custom timer modes, motivational messages, rest periods, and session tracking.
 
